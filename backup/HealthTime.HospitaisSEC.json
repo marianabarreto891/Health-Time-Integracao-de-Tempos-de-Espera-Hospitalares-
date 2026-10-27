@@ -1,0 +1,2407 @@
+[{
+  "_id": 227,
+  "HospitalKey": 98,
+  "HospitalName": "Hospital Pulido Valente (Centro Hospitalar de Lisboa Norte, EPE)",
+  "Description": "Centro Hospitalar de Lisboa Norte, EPE",
+  "Address": "Alameda das Linhas de Torres, 117 1769-001 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 217548000,
+    "Email": "administracao@chln.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.765467,
+    "Longitude": -9.157316
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 146,
+  "HospitalKey": 18,
+  "HospitalName": "Hospital São João (Centro Hospitalar de São João, EPE)",
+  "Description": "Centro Hospitalar de São João, EPE",
+  "Address": "Alameda Professor Hernâni Monteiro 4200-319 P Porto",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 225512100,
+    "Email": "geral@chsj.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.182126,
+    "Longitude": -8.600733
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 210,
+  "HospitalKey": 79,
+  "HospitalName": "Hospital Santo António dos Capuchos (Centro Hospitalar Lisboa Central, EPE)",
+  "Description": "Centro Hospitalar Lisboa Central",
+  "Address": "Alameda Santo António dos Capuchos 1169-050 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 213136300,
+    "Email": "sec.adm.capuchos@chlc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.72153,
+    "Longitude": -9.141437
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 195,
+  "HospitalKey": 61,
+  "HospitalName": "Hospital Visconde de Salreu - Estarreja (Centro Hospitalar do Baixo Vouga, EPE)",
+  "Description": "Centro Hospitalar do Baixo Vouga, EPE",
+  "Address": "Apartado 46 3860-756 Estarreja",
+  "District": "Aveiro",
+  "Contacts": {
+    "PhoneNum": 234810000,
+    "Email": "geral@hvsalreu.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.747907,
+    "Longitude": -8.5673317
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Aveiro"
+  }
+},
+{
+  "_id": 553,
+  "HospitalKey": 84,
+  "HospitalName": "Centro de Saúde de Estremoz",
+  "Address": "Av. 9 de Abril 7100-500 Estremoz",
+  "District": "Évora",
+  "Contacts": {
+    "PhoneNum": 268337700,
+    "Email": "csestremoz@alentejocentral.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.845309,
+    "Longitude": -7.583389
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alentejo Central"
+  }
+},
+{
+  "_id": 135,
+  "HospitalKey": 21,
+  "HospitalName": "Hospital Distrital de Bragança (Unidade Local de Saúde do Nordeste, EPE)",
+  "Description": "Unidade Local de Saúde do Nordeste, EPE",
+  "Address": "Av. Abade Baçal 5301-852 B Bragança",
+  "District": "Bragança",
+  "Contacts": {
+    "PhoneNum": 273310800,
+    "Email": "secretariado@ulsne.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.802904,
+    "Longitude": -6.773279
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Terras de Trás-os-Montes"
+  }
+},
+{
+  "_id": 168,
+  "HospitalKey": 12,
+  "HospitalName": "Hospital Pediátrico de Coimbra (Centro Hospitalar e Universitário de Coimbra, EPE)",
+  "Description": "Centro Hospitalar e Universitário de Coimbra, EPE",
+  "Address": "Av. Afonso Romão 3000-602 Coimbra",
+  "District": "Coimbra",
+  "Contacts": {
+    "PhoneNum": 239488700,
+    "Email": "correio@hpc.chc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.224481,
+    "Longitude": -8.413439
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Coimbra"
+  }
+},
+{
+  "_id": 189,
+  "HospitalKey": 27,
+  "HospitalName": "Hospital Infante D. Pedro - Aveiro (Centro Hospitalar do Baixo Vouga, EPE)",
+  "Description": "Centro Hospitalar do Baixo Vouga, EPE",
+  "Address": "Av. Artur Ravara 3814-501 Aveiro",
+  "District": "Aveiro",
+  "Contacts": {
+    "PhoneNum": 234378300,
+    "Email": "sec-adm@chbv.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.6362453,
+    "Longitude": -8.6543716
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Aveiro"
+  }
+},
+{
+  "_id": 219,
+  "HospitalKey": 13,
+  "HospitalName": "Hospital Distrital de Santarém, EPE",
+  "Address": "Av. Bernardo Santareno - Apartado 115 2005-177 Santarém",
+  "District": "Santarém",
+  "Contacts": {
+    "PhoneNum": 243300200,
+    "Email": "hdsca@hds.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.262611,
+    "Longitude": -8.726093
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Médio Tejo"
+  }
+},
+{
+  "_id": 171,
+  "HospitalKey": 26,
+  "HospitalName": "Hospitais da Universidade de Coimbra (Centro Hospitalar e Universitário de Coimbra, EPE)",
+  "Description": "Centro Hospitalar e Universitário de Coimbra, EPE",
+  "Address": "Av. Bissaya Barreto - Praceta Prof. Mota Pinto 3000-075 Coimbra",
+  "District": "Coimbra",
+  "Contacts": {
+    "PhoneNum": 239400400,
+    "Email": "casec@huc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.220492,
+    "Longitude": -8.412677
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Coimbra"
+  }
+},
+{
+  "_id": 196,
+  "HospitalKey": 32,
+  "HospitalName": "Instituto Português de Oncologia de Coimbra Francisco Gentil, EPE",
+  "Description": "IPO Coimbra",
+  "Address": "Av. Bissaya Barreto, 98 3000-075 Coimbra",
+  "District": "Coimbra",
+  "Contacts": {
+    "PhoneNum": 239400200,
+    "Email": "secad@ipocoimbra.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.21797905,
+    "Longitude": -8.409669399
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Coimbra"
+  }
+},
+{
+  "_id": 65413,
+  "HospitalKey": 88,
+  "HospitalName": "Hospital de Cascais Dr. José de Almeida",
+  "Address": "Av. Brigadeiro Victor Novais Gonçalves 2755-009 Alcabideche",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 214653000,
+    "Email": "geral@hospitaldecascais.pt"
+  },
+  "Location": {
+    "Latitude": 38.73094322,
+    "Longitude": -9.418576956
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 185,
+  "HospitalKey": 24,
+  "HospitalName": "Hospital Distrital São João da Madeira (Centro Hospitalar de Entre o Douro e Vouga, EPE)",
+  "Description": "Centro Hospitalar de Entre Douro e Vouga, EPE",
+  "Address": "Av. da Misericórdia 3700-190 São João da Madeira",
+  "District": "Aveiro",
+  "Contacts": {
+    "PhoneNum": 256379700,
+    "Email": "geral@chedv.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.89358667,
+    "Longitude": -8.494523764
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Aveiro"
+  }
+},
+{
+  "_id": 431,
+  "HospitalKey": 43,
+  "HospitalName": "Centro de Saúde de Moimenta da Beira",
+  "Address": "Av. da República 3620-334 Moimenta Da Beira",
+  "District": "Viseu",
+  "Contacts": {
+    "PhoneNum": 254520250,
+    "Email": "ctecnico.mbeira@srsvreal.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.971893,
+    "Longitude": -7.610076
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Douro"
+  }
+},
+{
+  "_id": 234,
+  "HospitalKey": 40,
+  "HospitalName": "Hospital Dr. José Maria Grande - Portalegre (Unidade Local de Saúde do Norte Alentejano, EPE)",
+  "Description": "Unidade Local de Saúde do Norte Alentejano, EPE",
+  "Address": "Av. de Santo António 7300-853 PORTA Portalegre",
+  "District": "Portalegre",
+  "Contacts": {
+    "PhoneNum": 245301000,
+    "Email": "admin@ulsna.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.3000641,
+    "Longitude": -7.42762953
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alto Alentejo"
+  }
+},
+{
+  "_id": 201,
+  "HospitalKey": 46,
+  "HospitalName": "Hospital Júlio de Matos (Centro Hospitalar Psiquiátrico de Lisboa)",
+  "Description": "Centro Hospitalar Psiquiátrico de Lisboa",
+  "Address": "Av. do Brasil, 53 1749-002 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 217917000,
+    "Email": "administracao@chpl.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.756301,
+    "Longitude": -9.147035
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 179,
+  "HospitalKey": 48,
+  "HospitalName": "Hospital São Teotónio - Viseu (Centro Hospitalar Tondela-Viseu, EPE)",
+  "Description": "Centro Hospitalar Tondela-Viseu, EPE",
+  "Address": "Av. do Rei D. Duarte 3504-509 Viseu",
+  "District": "Viseu",
+  "Contacts": {
+    "PhoneNum": 232420500,
+    "Email": "geral@hstviseu.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.51689,
+    "Longitude": -8.08287
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Douro"
+  }
+},
+{
+  "_id": 237,
+  "HospitalKey": 82,
+  "HospitalName": "Hospital Terras do Infante - Lagos (Centro Hospitalar Universitário do Algarve)",
+  "Description": "Centro Hospitalar Universitário do Algarve",
+  "Address": "Av. Dom Sebastião, 8600-654 Lagos",
+  "District": "Faro",
+  "Contacts": {
+    "PhoneNum": 282770100,
+    "Email": "administracao@chalgarve.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 37.099639,
+    "Longitude": -8.670194
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Algarve",
+    "NUTSIIIDescription": "Algarve"
+  }
+},
+{
+  "_id": 153,
+  "HospitalKey": 95,
+  "HospitalName": "Hospital Distrital de Chaves (Centro Hospitalar de Trás-os-Montes e Alto Douro, EPE)",
+  "Description": "Centro Hospitalar de Trás-os-Montes e Alto Douro, EPE",
+  "Address": "Av. Dr. Francisco Sá Carneiro 5400-279 Chaves",
+  "District": "Vila Real",
+  "Contacts": {
+    "PhoneNum": 276300900,
+    "Email": "geral@chtmad.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.7434178,
+    "Longitude": -7.47685343
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Douro"
+  }
+},
+{
+  "_id": 188,
+  "HospitalKey": 115,
+  "HospitalName": "Hospital Dr. Francisco Zagalo - Ovar",
+  "Address": "Av. Dr. Nunes da Silva 3880-113 Ovar",
+  "District": "Aveiro",
+  "Contacts": {
+    "PhoneNum": 256579200,
+    "Email": "hfzovar@hovar.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.859703,
+    "Longitude": -8.625378
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Aveiro"
+  }
+},
+{
+  "_id": 5687,
+  "HospitalKey": 101,
+  "HospitalName": "Centro de Saúde de Vila Real de Santo António (SUB - Centro Hospitalar do Algarve, EPE)",
+  "Description": "Centro Hospitalar do Algarve, EPE",
+  "Address": "Av. Duarte Pacheco 8900-211 Vila Real de Santo António",
+  "District": "Faro",
+  "Contacts": {
+    "PhoneNum": 281530270,
+    "Email": "administracao@chalgarve.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 37.190884,
+    "Longitude": -7.41763
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Algarve",
+    "NUTSIIIDescription": "Algarve"
+  }
+},
+{
+  "_id": 587,
+  "HospitalKey": 90,
+  "HospitalName": "Centro de Saúde de Loulé (SUB - Centro Hospitalar do Algarve, EPE)",
+  "Description": "Centro Hospitalar do Algarve, EPE",
+  "Address": "Av. Engenheiro Laginha Serafim 8100-740 Loulé",
+  "District": "Faro",
+  "Contacts": {
+    "PhoneNum": 289401000,
+    "Email": "administracao@chalgarve.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 37.1453962,
+    "Longitude": -8.0136811
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Algarve",
+    "NUTSIIIDescription": "Algarve"
+  }
+},
+{
+  "_id": 175,
+  "HospitalKey": 64,
+  "HospitalName": "Hospital Cândido de Figueiredo - Tondela (Centro Hospitalar Tondela-Viseu, EPE)",
+  "Description": "Centro Hospitalar Tondela-Viseu, EPE",
+  "Address": "Av. General Humberto Delgado 3460-525 Tondela",
+  "District": "Viseu",
+  "Contacts": {
+    "PhoneNum": 232819060,
+    "Email": "ca@hdtondela.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.51689,
+    "Longitude": -8.083142638
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Douro"
+  }
+},
+{
+  "_id": 541,
+  "HospitalKey": 2,
+  "HospitalName": "Centro de Saúde Castro Verde (SUB - Unidade Local de Saúde do Baixo Alentejo, EPE)",
+  "Description": "Unidade Local de Saúde do Baixo Alentejo, EPE",
+  "Address": "Av. General Humberto Delgado, Apartado 17 7780-123 Castro Verde",
+  "District": "Beja",
+  "Contacts": {
+    "PhoneNum": 286320140,
+    "Email": "cscastro@ulsba.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 37.701522,
+    "Longitude": -8.085975
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Baixo Alentejo"
+  }
+},
+{
+  "_id": 186,
+  "HospitalKey": 30,
+  "HospitalName": "Hospital Distrital Pombal (Centro Hospitalar de Leiria, EPE)",
+  "Description": "Centro Hospitalar de Leiria, EPE",
+  "Address": "Av. Heróis do Ultramar - Apartado 40 3100-462 Pombal",
+  "District": "Leiria",
+  "Contacts": {
+    "PhoneNum": 236210000,
+    "Email": "secca@chleiria.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.91735,
+    "Longitude": -8.62722617
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 204,
+  "HospitalKey": 109,
+  "HospitalName": "Hospital Nossa Senhora da Graça - Tomar (Centro Hospitalar Médio Tejo, EPE)",
+  "Description": "Centro Hospitalar Médio Tejo, EPE",
+  "Address": "Av. Maria de Lourdes de Mello Castro - Ap. 118 2304-909 Tomar",
+  "District": "Santarém",
+  "Contacts": {
+    "PhoneNum": 249810100,
+    "Email": "geral@chmt.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.606735,
+    "Longitude": -8.395279
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Médio Tejo"
+  }
+},
+{
+  "_id": 213,
+  "HospitalKey": 4,
+  "HospitalName": "Hospital Nossa Senhora do Rosário (Centro Hospitalar Barreiro Montijo, EPE)",
+  "Description": "Centro Hospitalar Barreiro Montijo, EPE",
+  "Address": "Av. Movimento das Forças Armadas 2834-003 Barreiro",
+  "District": "Setúbal",
+  "Contacts": {
+    "PhoneNum": 212147300,
+    "Email": "admin@chbm.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.656545,
+    "Longitude": -9.059571
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alentejo Litoral"
+  }
+},
+{
+  "_id": 137,
+  "HospitalKey": 22,
+  "HospitalName": "Hospital Distrital de Mirandela (Unidade Local de Saúde do Nordeste, EPE)",
+  "Description": "Unidade Local de Saúde do Nordeste, EPE",
+  "Address": "Av. Nossa Senhora do Amparo 5370-210 Mirandela",
+  "District": "Bragança",
+  "Contacts": {
+    "PhoneNum": 278260500,
+    "Email": "secretariado@ulsne.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.485725,
+    "Longitude": -7.189462
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Terras de Trás-os-Montes"
+  }
+},
+{
+  "_id": 173,
+  "HospitalKey": 25,
+  "HospitalName": "Hospital Amato Lusitano - Castelo Branco (Unidade Local de Saúde de Castelo Branco, EPE)",
+  "Description": "Unidade Local de Saúde de Castelo Branco, EPE",
+  "Address": "Av. Pedro Álvares Cabral 6000-084 Castelo Branco",
+  "District": "Castelo Branco",
+  "Contacts": {
+    "PhoneNum": 272000272,
+    "Email": "geral@ulscb.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.82292466,
+    "Longitude": -7.499842644
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Beiras e Serra da Estrela"
+  }
+},
+{
+  "_id": 218,
+  "HospitalKey": 87,
+  "HospitalName": "Hospital Santa Maria (Centro Hospitalar de Lisboa Norte, EPE)",
+  "Description": "Centro Hospitalar de Lisboa Norte, EPE",
+  "Address": "Av. Professor Egas Moniz 1649-035 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 217805000,
+    "Email": "administracao@chln.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.7482765,
+    "Longitude": -9.160559177
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 217,
+  "HospitalKey": 111,
+  "HospitalName": "Hospital Santa Cruz (Centro Hospitalar de Lisboa Ocidental, EPE)",
+  "Description": "Centro Hospitalar de Lisboa Ocidental, EPE",
+  "Address": "Av. Professor Reinaldo dos Santos 2799-523 Carnaxide",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 210431000,
+    "Email": "hscruz@chlo.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.72704511,
+    "Longitude": -9.233869314
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 194,
+  "HospitalKey": 100,
+  "HospitalName": "Hospital Sousa Martins - Guarda (Unidade Local de Saúde da Guarda, EPE)",
+  "Description": "Unidade Local de Saúde da Guarda, EPE",
+  "Address": "Av. Rainha D. Amélia 6301-857 Guarda",
+  "District": "Guarda",
+  "Contacts": {
+    "PhoneNum": 271200200,
+    "Email": "secretariado.ca@ulsguarda.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.52997,
+    "Longitude": -7.695869
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Viseu Dão Lafões"
+  }
+},
+{
+  "_id": 225,
+  "HospitalKey": 65,
+  "HospitalName": "Hospital Garcia de Orta, EPE",
+  "Address": "Av. Torrado da Silva, Pragal 2801-951 Almada",
+  "District": "Setúbal",
+  "Contacts": {
+    "PhoneNum": 212940294,
+    "Email": "geral@hgo.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.673149,
+    "Longitude": -9.176903
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alentejo Litoral"
+  }
+},
+{
+  "_id": 205,
+  "HospitalKey": 6,
+  "HospitalName": "Hospital Rainha Santa Isabel - Torres Novas (Centro Hospitalar Médio Tejo, EPE)",
+  "Description": "Centro Hospitalar Médio Tejo, EPE",
+  "Address": "Av. Xanana Gusmão - Ap. 45 2350-754 Torres Novas",
+  "District": "Santarém",
+  "Contacts": {
+    "PhoneNum": 249810100,
+    "Email": "geral@chmt.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.52267,
+    "Longitude": -8.550128
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Médio Tejo"
+  }
+},
+{
+  "_id": 2566,
+  "HospitalKey": 72,
+  "HospitalName": "Hospital do Fundão (Centro Hospitalar Cova da Beira, EPE)",
+  "Description": "Centro Hospitalar Cova da Beira, EPE",
+  "Address": "Avenida Adolfo Portela 6230-288 Fundão",
+  "District": "Castelo Branco",
+  "Contacts": {
+    "PhoneNum": 275330000,
+    "Email": "direccao.hf@chcbeira.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.13498,
+    "Longitude": -7.5013
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Beiras e Serra da Estrela"
+  }
+},
+{
+  "_id": 75458,
+  "HospitalKey": 69,
+  "HospitalName": "Hospital Beatriz Ângelo",
+  "Address": "Avenida Carlos Teixeira, 3 2674 Loures",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 219847200,
+    "Email": "geral@hbeatrizangelo.pt"
+  },
+  "Location": {
+    "Latitude": 38.82388991,
+    "Longitude": -9.177103043
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 405,
+  "HospitalKey": 35,
+  "HospitalName": "Centro de Saúde de Vila Nova de Foz Côa (SUB - Unidade Local de Saúde da Guarda, EPE)",
+  "Description": "Unidade Local de Saúde da Guarda, EPE",
+  "Address": "Avenida da Misericórdia, 5 5150-632 Vila Nova de Foz Côa",
+  "District": "Guarda",
+  "Contacts": {
+    "PhoneNum": 279760050,
+    "Email": "secretariado.ca@ulsguarda.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.015628,
+    "Longitude": -7.233593
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Viseu Dão Lafões"
+  }
+},
+{
+  "_id": 145,
+  "HospitalKey": 7,
+  "HospitalName": "Hospital São Pedro de Vila Real (Centro Hospitalar de Trás-os-Montes e Alto Douro, EPE)",
+  "Description": "Centro Hospitalar de Trás-os-Montes e Alto Douro, EPE",
+  "Address": "Avenida da Noruega 5000-508 Vila Real",
+  "District": "Vila Real",
+  "Contacts": {
+    "PhoneNum": 259300500,
+    "Email": "geral@chtmad.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.308716457,
+    "Longitude": -7.758708
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Douro"
+  }
+},
+{
+  "_id": 155,
+  "HospitalKey": 67,
+  "HospitalName": "Hospital Padre Américo - Vale do Sousa (Centro Hospitalar Tâmega e Sousa, EPE)",
+  "Description": "Centro Hospitalar Tâmega e Sousa, EPE",
+  "Address": "Avenida do Hospital Padre Américo, nº210 4564-007 Penafiel",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 255714000,
+    "Email": "administracao@chts.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.228408,
+    "Longitude": -8.313946
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 517,
+  "HospitalKey": 66,
+  "HospitalName": "Centro de Saúde de Alcácer do Sal",
+  "Address": "Avenida José Saramago 7580-206 Alcácer do Sal",
+  "District": "Setúbal",
+  "Contacts": {
+    "PhoneNum": 265610500,
+    "Email": "ucsp.alcacer@alentejolitoral.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.375347,
+    "Longitude": -8.509792
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alentejo Litoral"
+  }
+},
+{
+  "_id": 150,
+  "HospitalKey": 85,
+  "HospitalName": "Hospital Santa Maria Maior, EPE - Barcelos",
+  "Address": "Campo da República 4754-909 Barcelos",
+  "District": "Braga",
+  "Contacts": {
+    "PhoneNum": 253809200,
+    "Email": "secadm@hbarcelos.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.53261,
+    "Longitude": -8.616605
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Cávado"
+  }
+},
+{
+  "_id": 193,
+  "HospitalKey": 33,
+  "HospitalName": "Hospital Psiquiátrico Sobral Cid (Centro Hospitalar e Universitário de Coimbra, EPE)",
+  "Description": "Centro Hospitalar e Universitário de Coimbra, EPE",
+  "Address": "Conraria 3031-801 Ceira",
+  "District": "Coimbra",
+  "Contacts": {
+    "PhoneNum": 239796400,
+    "Email": "geral@chpc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.176031,
+    "Longitude": -8.400608
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Coimbra"
+  }
+},
+{
+  "_id": 139,
+  "HospitalKey": 107,
+  "HospitalName": "Hospital Santa Luzia de Viana do Castelo (Unidade Local de Saúde do Alto Minho, EPE)",
+  "Description": "Unidade Local de Saúde do Alto Minho, EPE",
+  "Address": "Estrada de Santa Luzia 4904-858 Viana do Castelo",
+  "District": "Viana do Castelo",
+  "Contacts": {
+    "PhoneNum": 258802100,
+    "Email": "administracao@ulsam.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.701513,
+    "Longitude": -8.833617
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Alto Minho"
+  }
+},
+{
+  "_id": 216,
+  "HospitalKey": 54,
+  "HospitalName": "Hospital São Francisco Xavier (Centro Hospitalar de Lisboa Ocidental, EPE)",
+  "Description": "Centro Hospitalar de Lisboa Ocidental, EPE",
+  "Address": "Estrada do Forte do Alto do Duque 1449-005 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 210431000,
+    "Email": "hsfxavier@chlo.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.7076959,
+    "Longitude": -9.220508117
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 214,
+  "HospitalKey": 60,
+  "HospitalName": "Hospital Vila Franca de Xira",
+  "Address": "Estrada Nacional Nº1, Povos 2600-009 Vila Franca de Xira",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 263006500,
+    "Email": "hvfxira@hvfx.pt"
+  },
+  "Location": {
+    "Latitude": 38.97796042,
+    "Longitude": -8.985314369
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 181,
+  "HospitalKey": 42,
+  "HospitalName": "Hospital Distrital Figueira da Foz, EPE",
+  "Address": "Gala 3094-001 Figueira da Foz",
+  "District": "Coimbra",
+  "Contacts": {
+    "PhoneNum": 233402000,
+    "Email": "hdff@hdfigueira.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.130358,
+    "Longitude": -8.860848
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Coimbra"
+  }
+},
+{
+  "_id": 223,
+  "HospitalKey": 31,
+  "HospitalName": "Hospital Professor Doutor Fernando Fonseca, EPE",
+  "Address": "IC 19-Venteira 2720-276 Amadora",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 214348200,
+    "Email": "sec.geral@hff.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.744861,
+    "Longitude": -9.246694
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 138,
+  "HospitalKey": 108,
+  "HospitalName": "Hospital Conde de Bertiandos - Ponte de Lima (Unidade Local do Alto Minho, EPE)",
+  "Description": "Unidade Local de Saúde do Alto Minho, EPE",
+  "Address": "Largo Conde de Bertiandos 4990-041 Ponte de Lima",
+  "District": "Viana do Castelo",
+  "Contacts": {
+    "PhoneNum": 258909500,
+    "Email": "administracao@ulsam.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.767973,
+    "Longitude": -8.578964
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Alto Minho"
+  }
+},
+{
+  "_id": 160,
+  "HospitalKey": 51,
+  "HospitalName": "Centro Materno-Infantil do Norte (Centro Hospitalar do Porto)",
+  "Description": "Centro Hospitalar do Porto, EPE",
+  "Address": "Largo da Maternidade 4050-371 Porto",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 226087400,
+    "Email": "seccg.dmn@chporto.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.15119265,
+    "Longitude": -8.623216152
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 2076,
+  "HospitalKey": 106,
+  "HospitalName": "Hospital da Póvoa de Varzim (Centro Hospitalar Póvoa de Varzim/Vila do Conde, EPE)",
+  "Description": "Centro Hospitalar Póvoa de Varzim Vila do Conde, EPE",
+  "Address": "LARGO DA MISERICÓRDIA 4490-490 Póvoa de Varzim",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 252690600,
+    "Email": "geral@chpvvc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.382884,
+    "Longitude": -8.758959
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 232,
+  "HospitalKey": 63,
+  "HospitalName": "Hospital São Paulo - Serpa",
+  "Description": "Unidade Local de Saúde do Baixo Alentejo, EPE",
+  "Address": "Largo de São Paulo 7830-386 Serpa",
+  "District": "Beja",
+  "Contacts": {
+    "PhoneNum": 284544715,
+    "Email": "geral.serpa@ulsba.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 37.944371,
+    "Longitude": -7.595917
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Baixo Alentejo"
+  }
+},
+{
+  "_id": 439,
+  "HospitalKey": 37,
+  "HospitalName": "Centro de Saúde de São Pedro do Sul",
+  "Address": "Largo do Hospital 3660-439 São Pedro do Sul",
+  "District": "Viseu",
+  "Contacts": {
+    "PhoneNum": 232720180
+  },
+  "Location": {
+    "Latitude": 40.755379,
+    "Longitude": -8.067956
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Douro"
+  }
+},
+{
+  "_id": 141,
+  "HospitalKey": 5,
+  "HospitalName": "Hospital de Santo Tirso (Centro Hospitalar do Médio Ave, EPE)",
+  "Description": "Centro Hospitalar do Médio Ave, EPE",
+  "Address": "Largo Domingos Moreira 4780-371 Santo Tirso",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 252830707,
+    "Email": "administracao@chma.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.342344,
+    "Longitude": -8.48007
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 2077,
+  "HospitalKey": 45,
+  "HospitalName": "Hospital de Vila do Conde (Centro Hospitalar Póvoa de Varzim/Vila do Conde, EPE)",
+  "Description": "Centro Hospitalar Póvoa de Varzim Vila do Conde, EPE",
+  "Address": "Largo Dr. António José de Almeida 4480-733 Vila do Conde",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 252299100,
+    "Email": "cavc@chpvvc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.354397,
+    "Longitude": -8.744714
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 203,
+  "HospitalKey": 56,
+  "HospitalName": "Hospital Dr. Manoel Constâncio - Abrantes (Centro Hospitalar Médio Tejo, EPE)",
+  "Description": "Centro Hospitalar Médio Tejo, EPE",
+  "Address": "Largo Engenheiro Bioucas 2200-202 Abrantes",
+  "District": "Santarém",
+  "Contacts": {
+    "PhoneNum": 241360700,
+    "Email": "geral@chmt.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.503815,
+    "Longitude": -8.243175
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Médio Tejo"
+  }
+},
+{
+  "_id": 156,
+  "HospitalKey": 104,
+  "HospitalName": "Hospital Geral de Santo António (Centro Hospitalar do Porto, EPE)",
+  "Description": "Centro Hospitalar do Porto, EPE",
+  "Address": "Largo Professor Abel Salazar 4099-001 Porto",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 222077500,
+    "Email": "ca@chporto.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.146344,
+    "Longitude": -8.61958
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 165,
+  "HospitalKey": 47,
+  "HospitalName": "Hospital Termal Rainha D. Leonor (Centro Hospitalar do Oeste)",
+  "Description": "Centro Hospitalar do Oeste",
+  "Address": "Largo Rainha D. Leonor 2500-176 Caldas da Rainha",
+  "District": "Leiria",
+  "Contacts": {
+    "PhoneNum": 262830300,
+    "Email": "secretariado.ca@choeste.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.40318942,
+    "Longitude": -9.132535458
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 184,
+  "HospitalKey": 10,
+  "HospitalName": "Hospital São Miguel - Oliveira de Azeméis (Centro Hospitalar Entre o Douro e Vouga, EPE)",
+  "Description": "Centro Hospitalar de Entre Douro e Vouga, EPE",
+  "Address": "Largo Rizzo Terra 3720-275 Oliveira de Azeméis",
+  "District": "Aveiro",
+  "Contacts": {
+    "PhoneNum": 256379700,
+    "Email": "geral@chedv.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.84175234,
+    "Longitude": -8.472025394
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Aveiro"
+  }
+},
+{
+  "_id": 233,
+  "HospitalKey": 53,
+  "HospitalName": "Hospital Espírito Santo de Évora, EPE",
+  "Address": "Largo Senhor da Pobreza 7000-811 Évora",
+  "District": "Évora",
+  "Contacts": {
+    "PhoneNum": 266740100,
+    "Email": "geral@hevora.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.568662,
+    "Longitude": -7.903353
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alentejo Central"
+  }
+},
+{
+  "_id": 149,
+  "HospitalKey": 52,
+  "HospitalName": "Hospital de Braga",
+  "Address": "Lugar das Sete Fontes 4710-243 Braga",
+  "District": "Braga",
+  "Contacts": {
+    "PhoneNum": 253027000,
+    "Email": "hbraga@hospitaldebraga.pt"
+  },
+  "Location": {
+    "Latitude": 41.542624,
+    "Longitude": -8.417804
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Cávado"
+  }
+},
+{
+  "_id": 333,
+  "HospitalKey": 19,
+  "HospitalName": "Centro de Saúde Monção (SUB - Unidade Local de Saúde do Alto Minho, EPE)",
+  "Description": "Unidade Local de Saúde do Alto Minho, EPE",
+  "Address": "Lugar de Barreiras - Mazedo 4950-404 Monção",
+  "District": "Viana do Castelo",
+  "Contacts": {
+    "PhoneNum": 251653926,
+    "Email": "csmoncao@csmoncao.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 42.031588,
+    "Longitude": -8.549406
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Alto Minho"
+  }
+},
+{
+  "_id": 183,
+  "HospitalKey": 57,
+  "HospitalName": "Hospital Distrital de Lamego (Centro Hospitalar de Trás-os-Montes e Alto Douro, EPE)",
+  "Description": "Centro Hospitalar de Trás-os-Montes e Alto Douro, EPE",
+  "Address": "Lugar de Calvilhe 5100-038 Lamego",
+  "District": "Viseu",
+  "Contacts": {
+    "PhoneNum": 254609980,
+    "Email": "geral@chtmad.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.083727298,
+    "Longitude": -7.795880735
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Douro"
+  }
+},
+{
+  "_id": 221,
+  "HospitalKey": 91,
+  "HospitalName": "Hospital Litoral Alentejano (Unidade Local de Saúde do Litoral Alentejano, EPE)",
+  "Description": "Unidade Local de Saúde do Litoral Alentejano, EPE",
+  "Address": "Monte do Gilbardinho - Estrada Nacional 261 7540-240 Santiago do Cacém",
+  "District": "Setúbal",
+  "Contacts": {
+    "PhoneNum": 269818100,
+    "Email": "geral@ulsla.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.041781,
+    "Longitude": -8.79207
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alentejo Litoral"
+  }
+},
+{
+  "_id": 226,
+  "HospitalKey": 77,
+  "HospitalName": "Hospital Ortopédico Sant'Iago do Outão (Centro Hospitalar de Setúbal, EPE)",
+  "Description": "Centro Hospitalar de Setúbal, EPE",
+  "Address": "Outão 2900-182 Setúbal",
+  "District": "Setúbal",
+  "Contacts": {
+    "PhoneNum": 265543900,
+    "Email": "geral@chs.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.510583,
+    "Longitude": -8.935574
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alentejo Litoral"
+  }
+},
+{
+  "_id": 577,
+  "HospitalKey": 38,
+  "HospitalName": "Centro de Saúde de Ponte de Sor (SUB - Unidade Local de Saúde do Norte Alentejano, EPE)",
+  "Description": "Unidade Local de Saúde do Norte Alentejano, EPE",
+  "Address": "Passeio Garibaldino de Andrade n.º 1 7400-294 Ponte de Sôr",
+  "District": "Portalegre",
+  "Contacts": {
+    "PhoneNum": 242292000,
+    "Email": "geral.cs.pontedesor@ulsna.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.25126222,
+    "Longitude": -8.014518321
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alto Alentejo"
+  }
+},
+{
+  "_id": 148,
+  "HospitalKey": 50,
+  "HospitalName": "Hospital São José - Fafe",
+  "Address": "Praça José Florêncio Soares - Apartado 120 4820-148 Fafe",
+  "District": "Braga",
+  "Contacts": {
+    "PhoneNum": 253540330,
+    "Email": "geral.hsj@scmfafe.pt"
+  },
+  "Location": {
+    "Latitude": 41.448674,
+    "Longitude": -8.17214
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Cávado"
+  }
+},
+{
+  "_id": 142,
+  "HospitalKey": 34,
+  "HospitalName": "Hospital Dom Luiz I - Peso da Régua (Centro Hospitalar de Trás-os-Montes e Alto Douro, EPE)",
+  "Description": "Centro Hospitalar de Trás-os-Montes e Alto Douro, EPE",
+  "Address": "Praceta Delfim Ferreira 5054-001 Peso da Régua",
+  "District": "Vila Real",
+  "Contacts": {
+    "PhoneNum": 254320430,
+    "Email": "geral@chtmad.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.16563551,
+    "Longitude": -7.792460918
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Douro"
+  }
+},
+{
+  "_id": 2067106,
+  "HospitalKey": 103,
+  "HospitalName": "Centro de Medicina de Reabilitação da Região Centro – Rovisco Pais",
+  "Address": "Quinta da Fonte Quente, apatado 3 3060-908 Tocha",
+  "District": "Coimbra",
+  "Contacts": {
+    "PhoneNum": 231440900,
+    "Email": "cmcrrc@roviscopais.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.297793,
+    "Longitude": -8.762327
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Coimbra"
+  }
+},
+{
+  "_id": 2565,
+  "HospitalKey": 55,
+  "HospitalName": "Hospital Pêro da Covilhã (Centro Hospitalar Cova da Beira, EPE)",
+  "Description": "Centro Hospitalar Cova da Beira, EPE",
+  "Address": "Quinta do Alvito 6200-251 Covilhã",
+  "District": "Castelo Branco",
+  "Contacts": {
+    "PhoneNum": 275330000,
+    "Email": "info@chcbeira.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.26606815,
+    "Longitude": -7.49227
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Beiras e Serra da Estrela"
+  }
+},
+{
+  "_id": 2563,
+  "HospitalKey": 96,
+  "HospitalName": "Hospital Geral - Covões (Centro Hospitalar e Universitário de Coimbra, EPE)",
+  "Description": "Centro Hospitalar e Universitário de Coimbra, EPE",
+  "Address": "Quinta dos Vales 3046-853 Coimbra",
+  "District": "Coimbra",
+  "Contacts": {
+    "PhoneNum": 239800100,
+    "Email": "casec@huc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.195288,
+    "Longitude": -8.458752
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Coimbra"
+  }
+},
+{
+  "_id": 215,
+  "HospitalKey": 58,
+  "HospitalName": "Hospital São Bernardo (Centro Hospitalar de Setúbal, EPE)",
+  "Description": "Centro Hospitalar de Setúbal, EPE",
+  "Address": "R. Camilo Castelo Branco - Apartado 140 2910-446 Setúbal",
+  "District": "Setúbal",
+  "Contacts": {
+    "PhoneNum": 265549000,
+    "Email": "geral@chs.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.5291742,
+    "Longitude": -8.883224
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alentejo Litoral"
+  }
+},
+{
+  "_id": 187,
+  "HospitalKey": 116,
+  "HospitalName": "Hospital Arcebispo João Crisóstomo - Cantanhede",
+  "Address": "R. Padre Américo, Apartado 61 3061-909 Cantanhede",
+  "District": "Coimbra",
+  "Contacts": {
+    "PhoneNum": 231419210,
+    "Email": "geral@hdcantanhede.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.34153149,
+    "Longitude": -8.589109182
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Coimbra"
+  }
+},
+{
+  "_id": 191,
+  "HospitalKey": 16,
+  "HospitalName": "Hospital Nossa Senhora da Assunção - Seia (Unidade Local de Saúde da Guarda, EPE)",
+  "Description": "Unidade Local de Saúde da Guarda, EPE",
+  "Address": "Rua Alexandrina Soares Albergaria 6270-49 Seia",
+  "District": "Guarda",
+  "Contacts": {
+    "PhoneNum": 238320700,
+    "Email": "secretariado.ca@ulsguarda.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.42085,
+    "Longitude": -7.697422
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Viseu Dão Lafões"
+  }
+},
+{
+  "_id": 169,
+  "HospitalKey": 11,
+  "HospitalName": "Maternidade Bissaya Barreto (Centro Hospitalar e Universitário de Coimbra, EPE)",
+  "Description": "Centro Hospitalar e Universitário de Coimbra, EPE",
+  "Address": "Rua Augusta 3000-061 Coimbra",
+  "District": "Coimbra",
+  "Contacts": {
+    "PhoneNum": 239480400,
+    "Email": "adm.mbb@chc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.212729,
+    "Longitude": -8.414404
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Coimbra"
+  }
+},
+{
+  "_id": 157,
+  "HospitalKey": 112,
+  "HospitalName": "Hospital Joaquim Urbano (Centro Hospitalar do Porto, EPE)",
+  "Description": "Centro Hospitalar do Porto, EPE",
+  "Address": "Rua Câmara Pestana, 348 4369-004 Porto",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 225899550,
+    "Email": "hju@hjurbano.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.15484405,
+    "Longitude": -8.594055176
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 428,
+  "HospitalKey": 105,
+  "HospitalName": "Centro de Saúde de Cinfães",
+  "Address": "Rua Capitão Salgueiro Maia 4690-047 Cinfães",
+  "District": "Viseu",
+  "Contacts": {
+    "PhoneNum": 255561334,
+    "Email": "ucspcinfaes@cscinfaes.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.073845,
+    "Longitude": -8.089292
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Douro"
+  }
+},
+{
+  "_id": 2562,
+  "HospitalKey": 102,
+  "HospitalName": "Hospital Eduardo Santos Silva (Centro Hospitalar de Vila Nova de Gaia/Espinho, EPE)",
+  "Description": "Hospital Eduardo Santos Silva",
+  "Address": "Rua Conceição Fernandes 4434-502 Vila Nova de Gaia",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 227865100,
+    "Email": "geral@chvng.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.1058634,
+    "Longitude": -8.5920719
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 362,
+  "HospitalKey": 78,
+  "HospitalName": "Centro de Saúde de Arganil",
+  "Address": "Rua Condessa das Canas, 18 3300-036 Arganil",
+  "District": "Coimbra",
+  "Contacts": {
+    "PhoneNum": 235200100,
+    "Email": "cs05@srscoimbra.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.21588994,
+    "Longitude": -8.054373264
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Coimbra"
+  }
+},
+{
+  "_id": 266,
+  "HospitalKey": 110,
+  "HospitalName": "Centro de Saúde de Mogadouro",
+  "Address": "Rua Congregação S. Vicente Paulo, nº 136 5200-207 Mogadouro",
+  "District": "Bragança",
+  "Contacts": {
+    "PhoneNum": 279340300,
+    "Email": "geral@csmogadouro.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.34287411,
+    "Longitude": -6.711959839
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Terras de Trás-os-Montes"
+  }
+},
+{
+  "_id": 206,
+  "HospitalKey": 81,
+  "HospitalName": "Hospital de Curry Cabral (Centro Hospitalar Lisboa Central, EPE)",
+  "Description": "Centro Hospitalar de Lisboa Central, EPE",
+  "Address": "Rua da Beneficência, 8 1069-166 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 217924200,
+    "Email": "cadm@hccabral.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.739834,
+    "Longitude": -9.153856
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 212,
+  "HospitalKey": 92,
+  "HospitalName": "Hospital Egas Moniz (Centro Hospitalar de Lisboa Ocidental, EPE)",
+  "Description": "Centro Hospitalar de Lisboa Ocidental, EPE",
+  "Address": "Rua da Junqueira, 126 1349-019 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 210431000,
+    "Email": "hem@chlo.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.69969946,
+    "Longitude": -9.188164473
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 151,
+  "HospitalKey": 1,
+  "HospitalName": "Hospital São Gonçalo - Amarante (Centro Hospitalar Tâmega e Sousa, EPE)",
+  "Description": "Centro Hospitalar Tâmega e Sousa, EPE",
+  "Address": "Rua da Lama, nº 76 4600-758 Amarante",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 255410500,
+    "Email": "administracao@chts.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.270974,
+    "Longitude": -8.080458
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 190,
+  "HospitalKey": 73,
+  "HospitalName": "Hospital José Luciano de Castro - Anadia",
+  "Address": "Rua da Misericórdia - Apartado 93 3780-226 Anadia",
+  "District": "Aveiro",
+  "Contacts": {
+    "PhoneNum": 231510420,
+    "Email": "hdanadia@hdanadia.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.4425543,
+    "Longitude": -8.441727161
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Aveiro"
+  }
+},
+{
+  "_id": 182,
+  "HospitalKey": 59,
+  "HospitalName": "Hospital Conde de Sucena – Águeda (Centro Hospitalar do Baixo Vouga, EPE)",
+  "Description": "Centro Hospitalar do Baixo Vouga, EPE",
+  "Address": "Rua da Misericórdia 3750-130 Águeda",
+  "District": "Aveiro",
+  "Contacts": {
+    "PhoneNum": 234611000,
+    "Email": "geral@hdagueda.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.5759082,
+    "Longitude": -8.449143
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Aveiro"
+  }
+},
+{
+  "_id": 144,
+  "HospitalKey": 76,
+  "HospitalName": "Hospital Nossa Senhora da Conceição de Valongo (Centro Hospitalar de São João, EPE)",
+  "Description": "Centro Hospitalar de São João, EPE",
+  "Address": "Rua da Misericórdia 4440-563 Valongo",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 224220019,
+    "Email": "secretariado@hvalongo.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.18710409,
+    "Longitude": -8.49882334
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 180,
+  "HospitalKey": 86,
+  "HospitalName": "Hospital de Santo André - Leiria (Centro Hospitalar de Leiria, EPE)",
+  "Description": "Centro Hospitalar de Leiria, EPE",
+  "Address": "Rua das Olhalvas. Pousos 2410-197 L Leiria",
+  "District": "Leiria",
+  "Contacts": {
+    "PhoneNum": 244817000,
+    "Email": "secca@chleiria.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.743472,
+    "Longitude": -8.79425
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 147,
+  "HospitalKey": 41,
+  "HospitalName": "Hospital de Famalicão (Centro Hospitalar do Médio Ave, EPE)",
+  "Description": "Centro Hospitalar do Médio Ave, EPE",
+  "Address": "Rua de Cupertino de Miranda 4764-958 Vila Nova de Famalicão",
+  "District": "Braga",
+  "Contacts": {
+    "PhoneNum": 252300800,
+    "Email": "administracao@chma.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.412323,
+    "Longitude": -8.52108
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Cávado"
+  }
+},
+{
+  "_id": 209,
+  "HospitalKey": 49,
+  "HospitalName": "Hospital Santa Marta (Centro Hospitalar Lisboa Central, EPE)",
+  "Description": "Centro Hospitalar Lisboa Central",
+  "Address": "Rua de Santa Marta 1169-024 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 213594000,
+    "Email": "sec.adm.hsm@chlc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.72356313,
+    "Longitude": -9.145538807
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 2564,
+  "HospitalKey": 29,
+  "HospitalName": "Hospital Distrital Caldas da Rainha (Centro Hospitalar do Oeste)",
+  "Description": "Centro Hospitalar do Oeste",
+  "Address": "Rua Diário de Notícias 2500-176 Caldas da Rainha",
+  "District": "Leiria",
+  "Contacts": {
+    "PhoneNum": 262830300,
+    "Email": "secretariado.ca@choeste.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.4044994,
+    "Longitude": -9.1297355
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 174,
+  "HospitalKey": 97,
+  "HospitalName": "Hospital Bernardino Lopes de Oliveira - Alcobaça (Centro Hospitalar de Leiria, EPE)",
+  "Description": "Centro Hospitalar de Leiria, EPE",
+  "Address": "Rua do Hospital - Apartado 70 2460-051 Alcobaça",
+  "District": "Leiria",
+  "Contacts": {
+    "PhoneNum": 262590400,
+    "Email": "secca@chleiria.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.550917,
+    "Longitude": -8.9725
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 545,
+  "HospitalKey": 93,
+  "HospitalName": "Centro de Saúde Moura (SUB - Unidade Local de Saúde do Baixo Alentejo, EPE)",
+  "Description": "Unidade Local de Saúde do Baixo Alentejo, EPE",
+  "Address": "Rua dos Açores 7860-222 Moura",
+  "District": "Beja",
+  "Contacts": {
+    "PhoneNum": 285254900,
+    "Email": "csmoura@ulsba.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.137701,
+    "Longitude": -7.45229
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Baixo Alentejo"
+  }
+},
+{
+  "_id": 152,
+  "HospitalKey": 113,
+  "HospitalName": "Hospital da Senhora da Oliveira Guimarães, EPE",
+  "Description": "Centro Hospitalar do Alto Ave, EPE",
+  "Address": "Rua dos Cutileiros 4835-044 Guimarães",
+  "District": "Braga",
+  "Contacts": {
+    "PhoneNum": 253540330,
+    "Email": "geral@hospitaldeguimaraes.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.44225,
+    "Longitude": -8.305083
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Cávado"
+  }
+},
+{
+  "_id": 344,
+  "HospitalKey": 17,
+  "HospitalName": "Centro de Saúde de Arouca",
+  "Address": "Rua Dr. Ângelo Miranda 4540-140 Arouca",
+  "District": "Aveiro",
+  "Contacts": {
+    "PhoneNum": 256940330,
+    "Email": "csarouca@csarouca.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.925867,
+    "Longitude": -8.243175
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Aveiro"
+  }
+},
+{
+  "_id": 159,
+  "HospitalKey": 74,
+  "HospitalName": "Instituto Português de Oncologia de Porto Francisco Gentil, EPE",
+  "Description": "IPO Porto",
+  "Address": "Rua Dr. António Bernardino de Almeida 4200-072 Porto",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 225084000,
+    "Email": "diripo@ipoporto.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.179108,
+    "Longitude": -8.605716
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 235,
+  "HospitalKey": 68,
+  "HospitalName": "Hospital José Joaquim Fernandes - Beja (Unidade Local de Saúde do Baixo Alentejo, EPE)",
+  "Description": "Unidade Local de Saúde do Baixo Alentejo, EPE",
+  "Address": "Rua Dr. António Fernando Covas Lima 780 Beja",
+  "District": "Beja",
+  "Contacts": {
+    "PhoneNum": 284310200,
+    "Email": "ca@ulsba.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.0142877,
+    "Longitude": -7.870084047
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Baixo Alentejo"
+  }
+},
+{
+  "_id": 220,
+  "HospitalKey": 28,
+  "HospitalName": "Hospital Distrital Torres Vedras (Centro Hospitalar do Oeste)",
+  "Description": "Centro Hospitalar do Oeste",
+  "Address": "Rua Dr. Aurélio Ricardo Belo 2560-324 Torres Vedras",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 261319300,
+    "Email": "secretariado.ca@choeste.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.0864259,
+    "Longitude": -9.2573522
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 178,
+  "HospitalKey": 23,
+  "HospitalName": "Hospital São Sebastião (Centro Hospitalar de Entre o Douro e Vouga, EPE)",
+  "Description": "Centro Hospitalar de Entre Douro e Vouga, EPE",
+  "Address": "Rua Dr. Cândido de Pinho 4520-211 Santa Maria da Feira",
+  "District": "Aveiro",
+  "Contacts": {
+    "PhoneNum": 256379700,
+    "Email": "geral@chedv.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.93016984,
+    "Longitude": -8.547738791
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Aveiro"
+  }
+},
+{
+  "_id": 6578,
+  "HospitalKey": 14,
+  "HospitalName": "Hospital Pedro Hispano (Unidade Local de Saúde de Matosinhos, EPE)",
+  "Description": "Unidade Local de Saúde de Matosinhos, EPE",
+  "Address": "Rua Dr. Eduardo Torres 4454-509 Matosinhos",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 229391000,
+    "Email": "ca@ulsm.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.181732,
+    "Longitude": -8.658875
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 2561,
+  "HospitalKey": 80,
+  "HospitalName": "Hospital Distrital de Vila Nova de Gaia (Centro Hospitalar de Vila Nova de Gaia/Espinho, EPE)",
+  "Description": "Hospital Distrital Vila Nova de Gaia",
+  "Address": "Rua Dr. Francisco sá Carneiro 4400-129 Vila Nova de Gaia",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 227865100,
+    "Email": "geral@chvng.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.1286183,
+    "Longitude": -8.6122023
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 136,
+  "HospitalKey": 70,
+  "HospitalName": "Hospital Distrital de Macedo de Cavaleiros (Unidade Local de Saúde do Nordeste, EPE)",
+  "Description": "Unidade Local de Saúde do Nordeste, EPE",
+  "Address": "Rua Dr. Urze Pires 5340-263 Macedo de Cavaleiros",
+  "District": "Bragança",
+  "Contacts": {
+    "PhoneNum": 278428200,
+    "Email": "secretariado@ulsne.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.535443,
+    "Longitude": -6.959864
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Terras de Trás-os-Montes"
+  }
+},
+{
+  "_id": 555,
+  "HospitalKey": 75,
+  "HospitalName": "Centro de Saúde de Montemor-o-Novo",
+  "Address": "Rua Fernando Pessoa 7050-236 Montemor-o-Novo",
+  "District": "Évora",
+  "Contacts": {
+    "PhoneNum": 266898900,
+    "Email": "csmontemor@alentejocentral.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.64532454,
+    "Longitude": -8.213613331
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alentejo Central"
+  }
+},
+{
+  "_id": 177,
+  "HospitalKey": 15,
+  "HospitalName": "Hospital São Pedro Gonçalves Telmo - Peniche (Centro Hospitalar do Oeste)",
+  "Description": "Centro Hospitalar do Oeste",
+  "Address": "Rua General Humberto Delgado 2520-447 Peniche",
+  "District": "Leiria",
+  "Contacts": {
+    "PhoneNum": 262780900,
+    "Email": "geral@hpeniche.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 39.36351068,
+    "Longitude": -9.38276622
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 208,
+  "HospitalKey": 20,
+  "HospitalName": "Hospital Dona Estefânia (Centro Hospitalar Lisboa Central, EPE)",
+  "Description": "Centro Hospitalar Lisboa Central",
+  "Address": "Rua Jacinta Marto 1169-045 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 213126600,
+    "Email": "sec.adm.hde@chlc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.727517,
+    "Longitude": -9.138393
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 211,
+  "HospitalKey": 9,
+  "HospitalName": "Hospital São José (Centro Hospitalar Lisboa Central, EPE)",
+  "Description": "Centro Hospitalar Lisboa Central",
+  "Address": "Rua José António Serrano 1150-199 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 218841000,
+    "Email": "sec.ca@chlc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.716817,
+    "Longitude": -9.1367603
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 318,
+  "HospitalKey": 8,
+  "HospitalName": "Centro de Saúde de Montalegre",
+  "Address": "Rua Lama do Moinho, n.º 400 5470-225 Montalegre",
+  "District": "Vila Real",
+  "Contacts": {
+    "PhoneNum": 276510160,
+    "Email": "csmontalegre@srsvreal.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.771901,
+    "Longitude": -7.828637
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Douro"
+  }
+},
+{
+  "_id": 236,
+  "HospitalKey": 36,
+  "HospitalName": "Hospital de Faro (Centro Hospitalar Universitário do Algarve)",
+  "Description": "Centro Hospitalar Universitário do Algarve",
+  "Address": "Rua Leão Penedo 8000-386 Faro",
+  "District": "Faro",
+  "Contacts": {
+    "PhoneNum": 289891100,
+    "Email": "administracao@chalgarve.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 37.024667,
+    "Longitude": -7.929222
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Algarve",
+    "NUTSIIIDescription": "Algarve"
+  }
+},
+{
+  "_id": 222,
+  "HospitalKey": 3,
+  "HospitalName": "Hospital Distrital do Montijo (Centro Hospitalar Barreiro Montijo, EPE)",
+  "Description": "Centro Hospitalar Barreiro Montijo, EPE",
+  "Address": "Rua Machado dos Santos, 54 2870-351 Montijo",
+  "District": "Setúbal",
+  "Contacts": {
+    "PhoneNum": 212147300,
+    "Email": "admin@chbm.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.679925,
+    "Longitude": -8.969652
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alentejo Litoral"
+  }
+},
+{
+  "_id": 231,
+  "HospitalKey": 94,
+  "HospitalName": "Hospital Santa Luzia de Elvas (Unidade Local de Saúde do Norte Alentejano, EPE)",
+  "Description": "Unidade Local de Saúde do Norte Alentejano, EPE",
+  "Address": "Rua Mariana Martins - Apartado 242 7350-954 Elvas",
+  "District": "Portalegre",
+  "Contacts": {
+    "PhoneNum": 268637200,
+    "Email": "admin@ulsna.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.87548785,
+    "Longitude": -7.163029611
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Alto Alentejo"
+  }
+},
+{
+  "_id": 172,
+  "HospitalKey": 44,
+  "HospitalName": "Maternidade Dr. Daniel de Matos (Centro Hospitalar e Universitário de Coimbra, EPE)",
+  "Description": "Centro Hospitalar e Universitário de Coimbra, EPE",
+  "Address": "Rua Miguel Torga 3030-165 Coimbra",
+  "District": "Coimbra",
+  "Contacts": {
+    "PhoneNum": 239403060,
+    "Email": "secobstetricia@huc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 40.207821,
+    "Longitude": -8.411143
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Centro",
+    "NUTSIIIDescription": "Região de Coimbra"
+  }
+},
+{
+  "_id": 228,
+  "HospitalKey": 62,
+  "HospitalName": "Instituto Português de Oncologia de Lisboa Francisco Gentil, EPE",
+  "Description": "IPO Lisboa",
+  "Address": "Rua Prof. Lima Basto 1099-023 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 217229800,
+    "Email": "ipofg@ipolisboa.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.73956,
+    "Longitude": -9.163105
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 143,
+  "HospitalKey": 99,
+  "HospitalName": "Hospital de Magalhães Lemos, EPE",
+  "Address": "Rua Professor Álvaro Rodrigues 4149-003 Porto",
+  "District": "Porto",
+  "Contacts": {
+    "PhoneNum": 226192400,
+    "Email": "hml@hmlemos.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 41.17750729,
+    "Longitude": -8.663578033
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Norte",
+    "NUTSIIIDescription": "Tâmega e Sousa"
+  }
+},
+{
+  "_id": 229,
+  "HospitalKey": 89,
+  "HospitalName": "Maternidade Dr. Alfredo da Costa (Centro Hospitalar Lisboa Central, EPE)",
+  "Description": "Centro Hospitalar de Lisboa Central, EPE",
+  "Address": "Rua Viriato 1069-089 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 213184000,
+    "Email": "dirclinica@chlc.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.73099561,
+    "Longitude": -9.147695303
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 238,
+  "HospitalKey": 39,
+  "HospitalName": "Hospital de Portimão (Centro Hospitalar Universitário do Algarve)",
+  "Description": "Centro Hospitalar Universitário do Algarve",
+  "Address": "Sítio do Poço Seco 8500-338 Portimão",
+  "District": "Faro",
+  "Contacts": {
+    "PhoneNum": 282450300,
+    "Email": "administracao@chalgarve.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 37.1324829,
+    "Longitude": -8.539361
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Algarve",
+    "NUTSIIIDescription": "Algarve"
+  }
+},
+{
+  "_id": 2006,
+  "HospitalKey": 71,
+  "HospitalName": "Instituto de Oftalmologia Dr. Gama Pinto",
+  "Address": "Travessa Larga, 2 1169-019 Lisboa",
+  "District": "Lisboa",
+  "Contacts": {
+    "PhoneNum": 213553060,
+    "Email": "gabinete.cidadao@igpinto.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 38.721729,
+    "Longitude": -9.144954
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Oeste e Vale do Tejo",
+    "NUTSIIIDescription": "Oeste"
+  }
+},
+{
+  "_id": 580,
+  "HospitalKey": 114,
+  "HospitalName": "Centro de Saúde de Albufeira (SUB - Centro Hospitalar do Algarve, EPE)",
+  "Description": "Centro Hospitalar do Algarve, EPE",
+  "Address": "Urbanização dos Caliços 8200-200 Albufeira",
+  "District": "Faro",
+  "Contacts": {
+    "PhoneNum": 289598400,
+    "Email": "administracao@chalgarve.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 37.100706,
+    "Longitude": -8.252041
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Algarve",
+    "NUTSIIIDescription": "Algarve"
+  }
+},
+{
+  "_id": 546,
+  "HospitalKey": 83,
+  "HospitalName": "Centro de Saúde de Odemira",
+  "Address": "Vale Pêgas de Baixo 7630-236 Odemira",
+  "District": "Beja",
+  "Contacts": {
+    "PhoneNum": 283320130,
+    "Email": "csodemira@ulsla.min-saude.pt"
+  },
+  "Location": {
+    "Latitude": 37.621206,
+    "Longitude": -8.616067
+  },
+  "NUTS": {
+    "NUTSIDescription": "Continente",
+    "NUTSIIDescription": "Alentejo",
+    "NUTSIIIDescription": "Baixo Alentejo"
+  }
+}]

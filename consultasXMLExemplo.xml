@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultationsRegister
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="Consultations.xsd">
+    
+    <Header>
+        <InstitutionId>1</InstitutionId>
+        <HospitalName>Teste</HospitalName>
+        <Period>
+            <Month>1</Month>
+            <Year>2025</Year>
+        </Period>
+    </Header>
+    
+    <Data>
+        <Consultation> 
+            <Speciality>Cirurgia - CR Cancro Hepatobilio/Pancreático</Speciality>
+            <servicekey>37</servicekey>
+            <TargetPopulation>Adulto</TargetPopulation>
+            
+            <WaitingListCounts>
+                <General>100</General>
+                <NonOncological>90</NonOncological>
+                <Oncological>10</Oncological>
+            </WaitingListCounts>
+            
+            <AverageResponseTimes>
+                <Normal>10</Normal>
+                <Priority>5</Priority>
+                <VeryPriority>1</VeryPriority>
+            </AverageResponseTimes>
+            <priority>Normal</priority>
+        </Consultation>
+    </Data>
+    
+</ConsultationsRegister>
+

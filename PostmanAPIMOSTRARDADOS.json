@@ -1,0 +1,265 @@
+{
+	"info": {
+		"_postman_id": "9c549951-7d28-49cb-80d4-ac032348562f",
+		"name": "Health",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "50130172",
+		"_collection_link": "https://marianabarreto891-6762280.postman.co/workspace/Mariana-Barreto's-Workspace~6ee8471b-5e6b-4d25-8947-dad70c680db0/collection/50130172-9c549951-7d28-49cb-80d4-ac032348562f?action=share&source=collection_link&creator=50130172"
+	},
+	"item": [
+		{
+			"name": "1. Média de utentes em espera por tipologia durante um período",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/analise/media-espera?inicio=2025-02-01&fim=2025-02-28",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"analise",
+						"media-espera"
+					],
+					"query": [
+						{
+							"key": "inicio",
+							"value": "2025-02-01"
+						},
+						{
+							"key": "fim",
+							"value": "2025-02-28"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2. Percentagem por categoria de triagem em relação ao total de utentes por período do dia",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/analise/percentagem-triagem?hospitalId=151&inicio=2025-02-01&fim=2025-02-28",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"analise",
+						"percentagem-triagem"
+					],
+					"query": [
+						{
+							"key": "hospitalId",
+							"value": "151"
+						},
+						{
+							"key": "inicio",
+							"value": "2025-02-01"
+						},
+						{
+							"key": "fim",
+							"value": "2025-02-28"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3. Tempo médio de espera para triagem pediátrica por região (Distrito)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/analise/media-pediatria-regiao?tipo=pedi",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"analise",
+						"media-pediatria-regiao"
+					],
+					"query": [
+						{
+							"key": "tipo",
+							"value": "pedi"
+						},
+						{
+							"key": "tipo",
+							"value": "geral",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4. Diferença de tempos médios de resposta: Oncologia vs. Não-Oncologia",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/analise/comparativo-oncologia?hospital=Centro Materno-Infantil do Norte (Centro Hospitalar do Porto)&especialidade=Ginecologia&ano=2024",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"analise",
+						"comparativo-oncologia"
+					],
+					"query": [
+						{
+							"key": "hospital",
+							"value": "Centro Materno-Infantil do Norte (Centro Hospitalar do Porto)"
+						},
+						{
+							"key": "especialidade",
+							"value": "Ginecologia"
+						},
+						{
+							"key": "ano",
+							"value": "2024"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5. Tempo médio para cirurgia: Lista Geral vs. Oncológica por especialidade",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/analise/comparativo-cirurgia?hospital=Centro Materno-Infantil do Norte (Centro Hospitalar do Porto)&ano=2024",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"analise",
+						"comparativo-cirurgia"
+					],
+					"query": [
+						{
+							"key": "hospital",
+							"value": "Centro Materno-Infantil do Norte (Centro Hospitalar do Porto)"
+						},
+						{
+							"key": "ano",
+							"value": "2024"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6. Discrepância entre tempos de Consulta vs. Cirurgia por especialidade",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/analise/discrepancia-servicos?hospital=Centro Materno-Infantil do Norte (Centro Hospitalar do Porto)&especialidade=Ginecologia&ano=2024",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"analise",
+						"discrepancia-servicos"
+					],
+					"query": [
+						{
+							"key": "hospital",
+							"value": "Centro Materno-Infantil do Norte (Centro Hospitalar do Porto)"
+						},
+						{
+							"key": "especialidade",
+							"value": "Ginecologia"
+						},
+						{
+							"key": "ano",
+							"value": "2024"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7. Top 10 hospitais com menores tempos médios (Urgências Pediátricas)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/analise/top10-hospitais",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"analise",
+						"top10-hospitais"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "8. Evolução temporal (15 em 15 min) e Top 3 Picos de Afluência",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/api/analise/evolucao-temporal-geral?data=2025-02-16",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"api",
+						"analise",
+						"evolucao-temporal-geral"
+					],
+					"query": [
+						{
+							"key": "data",
+							"value": "2025-02-16"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    
+
+    
+    <xs:simpleType name="NonNegativeDecimal">
+        <xs:restriction base="xs:decimal">
+            <xs:minInclusive value="0"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="priorityType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="0 - Sem prioridade"/>
+            <xs:enumeration value="1 - Doença não oncológica"/>
+            <xs:enumeration value="2 - Doença oncológica"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+
+    
+    <xs:complexType name="WaitingListCountsType">
+        <xs:sequence>
+            <xs:element name="General" type="xs:nonNegativeInteger"/>
+            <xs:element name="NonOncological" type="xs:nonNegativeInteger"/>
+            <xs:element name="Oncological" type="xs:nonNegativeInteger"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+
+    
+    <xs:element name="SurgeryReport">
+        <xs:complexType>
+            <xs:sequence>
+                
+  
+                
+                <xs:element name="Header">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="InstitutionId" type="xs:nonNegativeInteger"/>
+                            <xs:element name="ReferencePeriod" type="xs:gYearMonth"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                
+               
+                
+                <xs:element name="SurgicalData">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="SurgeryEntry" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Specialty" type="xs:string"/>
+                                        <xs:element name="serviceId" type="xs:nonNegativeInteger"/>
+                                        <xs:element name="priority" type ="priorityType"/>
+                                        <xs:element name="WaitingListCounts" type="WaitingListCountsType"/>
+                                        <xs:element name="AverageWaitTimeDays" type="NonNegativeDecimal"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+</xs:schema>

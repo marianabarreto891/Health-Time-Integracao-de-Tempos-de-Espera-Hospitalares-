@@ -1,0 +1,62 @@
+{
+	"info": {
+		"_postman_id": "9add6448-5b15-4f3f-94ef-2f5c134650a4",
+		"name": "trabalho pratico",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "50094350",
+		"_collection_link": "https://ventura11david-4857929.postman.co/workspace/DAVID-FF's-Workspace~5d883488-6833-4b3a-82bc-1e50375b0b1f/collection/50094350-9add6448-5b15-4f3f-94ef-2f5c134650a4?action=share&source=collection_link&creator=50094350"
+	},
+	"item": [
+		{
+			"name": "login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "consultas",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiaWF0IjoxNzY3MTk5Mzc5LCJleHAiOjE3NjcyMDI5Nzl9.dCLfrflAmLjKU-nx7uuRkVT7zbzvVx8fHxqXeuOXcq8"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/xml; charset=utf-8"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ConsultationsRegister xmlns=\"http://example.com/consultations\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://example.com/consultations Consultations.xsd\">\n  <Header>\n    <InstitutionId>1</InstitutionId>\n    <HospitalName>Teste</HospitalName>\n    <Period>\n      <Month>1</Month>\n      <Year>2025</Year>\n    </Period>\n  </Header>\n  <Data>\n    <Consultation>\n      <Speciality>Cardiologia</Speciality>\n      <TargetPopulation>Adulto</TargetPopulation>\n      <WaitingListType>Geral</WaitingListType>\n      <AverageResponseTimes>\n        <Normal>10</Normal>\n        <Priority>5</Priority>\n        <VeryPriority>1</VeryPriority>\n      </AverageResponseTimes>\n    </Consultation>\n  </Data>\n</ConsultationsRegister>",
+					"options": {
+						"raw": {
+							"language": "xml"
+						}
+					}
+				},
+				"url": "http://localhost:3000/api/consultations/submit"
+			},
+			"response": []
+		},
+		{
+			"name": "urgencias",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "cirugia",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
